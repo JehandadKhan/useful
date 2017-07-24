@@ -11,3 +11,8 @@ SSH Without password: http://www.linuxproblem.org/art_9.html
 Debug Boost Shared Pointers: http://tools.proteomecenter.org/wiki/index.php?title=Debugging:Working_with_boost::shared_ptr
 ctags and vim:
 
+[Dumping out all the preprocessor defines in gcc]
+ref: https://stackoverflow.com/questions/2224334/gcc-dump-preprocessor-defines
+```
+gcc -dM -E - < /dev/null
+```
