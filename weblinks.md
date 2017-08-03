@@ -16,3 +16,7 @@ ref: https://stackoverflow.com/questions/2224334/gcc-dump-preprocessor-defines
 ```
 gcc -dM -E - < /dev/null
 ```
+
+Useful C++ Constants to test type limits etc
+
+http://en.cppreference.com/w/c/types/limits
