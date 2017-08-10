@@ -20,3 +20,6 @@ gcc -dM -E - < /dev/null
 Useful C++ Constants to test type limits etc
 
 http://en.cppreference.com/w/c/types/limits
+
+## 8 Useful GDB Tricks
+[gdb tricks][https://blogs.oracle.com/ksplice/8-gdb-tricks-you-should-know]
