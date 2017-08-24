@@ -23,3 +23,11 @@ http://en.cppreference.com/w/c/types/limits
 
 ## 8 Useful GDB Tricks
 [gdb tricks][https://blogs.oracle.com/ksplice/8-gdb-tricks-you-should-know]
+
+## Merging development to Master
+https://stackoverflow.com/questions/14168677/merge-development-branch-with-master
+
+(on branch development)$ git merge master
+(resolve any merge conflicts if there are any)
+git checkout master
+git merge development (there won't be any conflicts now)
