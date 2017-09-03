@@ -31,3 +31,6 @@ https://stackoverflow.com/questions/14168677/merge-development-branch-with-maste
 (resolve any merge conflicts if there are any)
 git checkout master
 git merge development (there won't be any conflicts now)
+
+## Using VIM like an IDE
+http://vim.wikia.com/wiki/Use_Vim_like_an_IDE
