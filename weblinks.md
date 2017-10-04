@@ -3,6 +3,10 @@
 $ cd my_project_folder
 $ virtualenv my_project
 ```
+Creating a virtualenv with python3
+```
+virtualenv -p python3 envname
+```
 [Hitch Hikers guide to Python](http://docs.python-guide.org/en/latest/dev/virtualenvs)
 
 ## cscope:
