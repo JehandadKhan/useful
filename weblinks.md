@@ -51,3 +51,7 @@ gcc -dM -E - < /dev/null
 ### FPGA Stuff
 
 [Good FPGA Tutorial](https://embeddedmicro.com/tutorials/mojo)
+
+
+### Machine Learning
+[Theoretical Machine Learning Lecture Series](https://www.ias.edu/idea-tags/machine-learning)
